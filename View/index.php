@@ -245,7 +245,7 @@
     </div>  
 
     <div class="col s12 m10">
-        <h2 class="center-align" style="font-family: 'Poly', serif; font-size:42pt;" >Nuestro equipo (Claudia)</h2>
+        <h2 class="center-align" style="font-family: 'Poly', serif; font-size:42pt;" >Nuestro equipo</h2>
         <p class="center-align"style="font-size:11pt;">Sabemos que nuestro principal propósito es dar a nuestros clientes orden y conocimiento en su gestión contable, para así, pevenir futuros problemas y garantizar un rápido crecimiento en el mercado competitivo de hoy.</p>
     </div>  
 
