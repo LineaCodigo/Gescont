@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css?family=Poly');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,600');
+
+body{
+    font-family: 'Poly', serif;
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* Estilos para barra de menú principal */
+
+nav,
+nav .nav-wrapper i,
+nav a.button-collapse,
+nav a.button-collapse i {
+height: 100px;
+line-height: 100px;
+}
+
+nav ul a {
+    color: #72889d;
+    
+}
+
+
+@media screen and (max-width:768px){
+
+    nav,
+    nav .nav-wrapper i,
+    nav a.button-collapse,
+    nav a.button-collapse i {
+    height: 60px;
+    line-height: 0px;
+    }
+
+    nav img{
+        width: 150px;
+        margin-top: -10px;
+         
+    }
+
+  
+
+}
+
+
+/* ------------------------- */
+
+.carousel{
+    height: 100vh;
+}
+
+.carousel .indicators .indicator-item {
+    height: 12px;
+    width: 12px;
+}
+
+/* Estilo para los objetos con alineación vertical */
+
+@media screen and (max-width:768px){
+    .valign-wrapper {
+        display: inline-block;
+    }
+}
+
+
+/* Estilos para controles input */
+
+/* label focus color */
+.input-field input:focus + label , .input-field textarea:focus + label{
+    color: #a5a386 !important;
+  }
+ 
+ i{
+     color: white !important;
+ }
+ 
+  /* label underline focus color */
+  .row .input-field input:focus , .row .input-field textarea:focus {
+    border-bottom: 1px solid #a5a386 !important;
+    box-shadow: 0 1px 0 0 #a5a386 !important
+  }     
+ 
+   .row .input-field input .valid{
+    border-bottom: 1px solid #a5a386 !important;
+    box-shadow: 0 1px 0 0 #a5a386 !important
+  }     
+ 
+ input , textarea{
+     color: white;
+ }
+
+
+ #imenu {
+    color: #1d1d1d !important;
+}
+
+ /*Links de Servicios*/
+
+.link{
+    color:#3497ff;
+    font-weight: 600; 
+    font-family: 'Montserrat', sans-serif;
+}
+
+.link:hover{
+    color:#1d5289;
+    text-decoration: underline;
+}
+
+
+.collapsible {
+    background-color: #ffffff;
+    color: #3497ff;
+    cursor: pointer;
+    border-bottom: none;
+    border: none;
+    -webkit-box:none;
+    box-shadow: none;
+    outline: none;
+    
+}
+
+
+.active, .collapsible:hover {
+    color: #ffffff;
+    color:#1d5289;
+    border: none;
+    
+}
+
+
+@media screen and (max-width:768px){
+
+    #logo{
+        padding-top: 25px;
+    }
+
+}
