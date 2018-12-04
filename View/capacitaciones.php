@@ -43,7 +43,7 @@
     
 <div class="row" style="width: 70%;">
     
-        <div class="col s12 m12  card" style="background-color:red;" >
+        <div class="col s12 m12  card" style="background-color: #1d5289;" >
             
                 
                     <div class="col s12 m3 card-content"  >
