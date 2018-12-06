@@ -38,12 +38,12 @@
                 //mobile: true
             });
             //sr.reveal('.tarjeta1');
-            sr.reveal('.tarjeta1', { delay: 700 });
-            sr.reveal('.tarjeta2', { delay: 1200 });
-            sr.reveal('.tarjeta3', { delay: 1400 });
-            sr.reveal('.tarjeta4', { delay: 1600 });
-            sr.reveal('.tarjeta5', { delay: 1800 });
-            sr.reveal('.tarjeta6', { delay: 2000 });
+            sr.reveal('.tarjeta1', { delay: 600 });
+            sr.reveal('.tarjeta2', { delay: 1100 });
+            sr.reveal('.tarjeta3', { delay: 1300 });
+            sr.reveal('.tarjeta4', { delay: 1500 });
+            sr.reveal('.tarjeta5', { delay: 1700 });
+            sr.reveal('.tarjeta6', { delay: 1900 });
 
             /* ----------------------------- */     
 
@@ -119,12 +119,12 @@
             <div class="slider">
                 <ul class="slides">
                 <li>
-                    <img id="img1" src="Recursos/img/Portada.jpg"> 
+                    <img id="img1" src="Recursos/img/PortadaGes.jpg"> 
                     <!-- random image -->
                     <!-- <div class="caption center-align"> -->
-                    <div id="txtporta" class="caption right-align">
-                        <h4 style="padding-top: 50px;color:#1d5289;font-family: 'Poly', serif; font-size:30pt;"><b>Prevenir</b> es no mirar atrás.</h4>
-                        <a class="waves-effect waves-light btn-large" style="background-color:#1d5289; font-weight:600;">Conócenos</a>
+                    <div id="txtporta" class="caption center-align">
+                        <h4 style="padding-top: 75px;color:white;font-family: 'Montserrat';font-weight: 600; font-size: 50pt;text-shadow: 3px 2px 2px #4a4a4a"><b>Prevenir</b> para<br>construir tu futuro</h4>
+                        <a id="btn_datos" href="#Comienza" class="waves-effect btn-large" style="background-color: #1d5289;margin: 80px;border-radius: 10px;">Todo comienza aquí</a>
                     </div>                    
                 </li>
                 
@@ -134,14 +134,48 @@
             
 
   <!-- ----------------------------- -->
-  
- 
- 
-<section class="container " style="background-color:#ffffff;">
 
+<section id="Comienza" class="container-wide center-align" style="background-color:#ffffff; color:#1d5289; height:470px;padding-top:100px;">
+
+    <h5 class="center-align" style="font-family: 'Poly', serif;"><b><u>La gestión contable</u></b> es, también, anticiparnos a un problema y no esperar a que este llegue</h5>
+    <h3 class="center-align" style="font-family: 'Poly', serif;">Tenemos las herramientas y conocimientos<br>de acuerdo a tus necesidades</h3>
+    <a href="#Servicios" style="position: relative;bottom: 5px;z-index: 99;">
+        <!-- <img class="floating" src="Recursos/img/flechas.png" style="width: 90px;"> -->
+        <!-- <a id="btn_datos" href="#Comienza" class="waves-effect btn-large floating" style="background-color: #1d5289;margin: 50px;border-radius: 100px;"><i class="large material-icons">message</i></a>         -->
+        <i class="large material-icons floating" style="color: #1d5289 !important; font-size: 55pt; margin-top: 30px;">archive</i>
+    </a>
+    <!-- <div class="row" style="color:#1d5289; width: 100%; ">
+        <div class="col s12 l12">
+
+        <div class="card white hoverable">
+          <div class="card-content" style="background-color:white; height:270px; cursor: pointer;">
+            <div class="card-title">                
+            </div>
+            <h5 class="center-align" style="font-family: 'Poly', serif;"><b><u>La gestión contable</u></b> es, también, anticiparnos a un problema y no esperar a que este llegue</h5>
+            <h3 class="center-align" style="font-family: 'Poly', serif;">Tenemos las herramientas y conocimientos<br>de acuerdo a tus necesidades</h3>
+            <a href="#Servicios" style="position: relative;bottom: 5px;z-index: 99;">
+                <img class="floating" src="Recursos/img/flechas.png" style="width: 90px;">
+            </a>
+          </div>        
+        </div>
+
+
+        </div>
+
+    </div> -->
+
+
+</section>
+
+
+ 
+ 
+<section id="Servicios" class="container-wide " style="background-color:#efefef;">
+
+<br>
 <h2 class="center-align" style="color:#1d5289; font-family: 'Poly', serif; font-size:42pt;">Servicios</h2>
 <br><br>
-<div class="row center-align" style="color:#1d5289;  ">
+<div class="row center-align" style="color:#1d5289; width:70%; ">
     <!-- <div class="col s12 m4 l4">
         <h5 class="" style="font-family: 'Poly', serif; font-size:20pt;">Outsourcing empresarial</h5>
         <p style="font-size:14pt;">Para una organización más eficiente, competitiva y rentable.</p>
@@ -244,9 +278,10 @@
     <div class="col s12 m1">
     </div>  
 
+
     <div class="col s12 m10">
         <h2 class="center-align" style="font-family: 'Poly', serif; font-size:42pt;" >Nuestro equipo</h2>
-        <p class="center-align"style="font-size:11pt;">Sabemos que nuestro principal propósito es dar a nuestros clientes orden y conocimiento en su gestión contable, para así, pevenir futuros problemas y garantizar un rápido crecimiento en el mercado competitivo de hoy.</p>
+        <p class="center-align"style="font-size:11pt;">Sabemos que nuestro principal propósito es dar a nuestros clientes orden y conocimiento en su gestión contable, para así, pevenir futuros problemas y garantizar un sólido crecimiento.</p>
     </div>  
 
     

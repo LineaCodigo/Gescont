@@ -46,11 +46,11 @@
 
 
 <section class="container-wide" style="color:#1d5289;">
-<br><br><br>
+<br><br><br><br><br><br>
     <div class="row" style="width: 85%;">
         <div class="col s12 m7 l7">
         <h5 class="" style="font-family: 'Poly', serif; font-size:20pt; text-decoration: underline;">Outsourcing empresarial</h5>
-        <p style="font-size:14pt;">
+        <p style="font-size:14pt;text-align:justify;">
         Este modelo de soporte está convirtiendo a las empresas en organizaciones más eficientes, competitivas
         y rentables; dirigiendo todos sus recursos al desarrollo de su objeto social para facilitar su crecimiento
         y mejorar los procesos u operaciones de su negocio que involucran tiempo productivo innecesario de la dirección
@@ -94,11 +94,12 @@
 
         <div class="col s12 m7 l7">
         <h5 class="" style="font-family: 'Poly', serif; font-size:20pt; text-decoration: underline;">Asesoría en la gestión contable</h5>
-        <p style="font-size:14pt;">
-        Este modelo de soporte está convirtiendo a las empresas en organizaciones más eficientes, competitivas
-        y rentables; dirigiendo todos sus recursos al desarrollo de su objeto social para facilitar su crecimiento
-        y mejorar los procesos u operaciones de su negocio que involucran tiempo productivo innecesario de la dirección
-        de las empresas.
+        <p style="font-size:14pt;text-align:justify;">
+        Ofrecemos un servicio de asesoría contable para la toma de decisiones en relación con la administración de su empresa.
+        El aspecto de negocio legal y tributario hace posible un manejo óptimo de los impuestos de las compañía.
+        En el caso de que nuestro clientes, se encuentren obligados a la presentación de estados contables consolidados, estamos
+        en condición de asesorar la preparación de los soportes (identificación de transacciones entre vinculados, establecer
+        eliminaciones y las reclasificaciones) adecuados para la determinación de las cifras de los estados contables consolidados.
         </p>
         
         <ul class="collapsible">
@@ -133,7 +134,7 @@
     <div class="row" style="width: 85%;">
         <div class="col s12 m7 l7">
         <h5 class="" style="font-family: 'Poly', serif; font-size:20pt; text-decoration: underline;">Asesoría tributaria</h5>
-        <p style="font-size:14pt;">
+        <p style="font-size:14pt;text-align:justify;">
         Este modelo de soporte está convirtiendo a las empresas en organizaciones más eficientes, competitivas
         y rentables; dirigiendo todos sus recursos al desarrollo de su objeto social para facilitar su crecimiento
         y mejorar los procesos u operaciones de su negocio que involucran tiempo productivo innecesario de la dirección
@@ -175,11 +176,9 @@
         <div class="col s12 m7 l7">
         
         <h5 class="" style="font-family: 'Poly', serif; font-size:20pt; text-decoration: underline;">Asesoría laboral</h5>
-        <p style="font-size:14pt;">
-        Este modelo de soporte está convirtiendo a las empresas en organizaciones más eficientes, competitivas
-        y rentables; dirigiendo todos sus recursos al desarrollo de su objeto social para facilitar su crecimiento
-        y mejorar los procesos u operaciones de su negocio que involucran tiempo productivo innecesario de la dirección
-        de las empresas.
+        <p style="font-size:14pt;text-align:justify;">
+        Diseñamos una estrategia de interrelación de empresa personal. Basándose en las propias políticas de la empresa y a la Norma laboral
+        Vigente en el país.
         </p>
 
          <ul class="collapsible">
@@ -208,11 +207,9 @@
     <div class="row" style="width: 85%;">
         <div class="col s12 m7 l7">
         <h5 class="" style="font-family: 'Poly', serif; font-size:20pt; text-decoration: underline;">Gestión de cobranzas y pagos</h5>
-        <p style="font-size:14pt;">
-        Este modelo de soporte está convirtiendo a las empresas en organizaciones más eficientes, competitivas
-        y rentables; dirigiendo todos sus recursos al desarrollo de su objeto social para facilitar su crecimiento
-        y mejorar los procesos u operaciones de su negocio que involucran tiempo productivo innecesario de la dirección
-        de las empresas.
+        <p style="font-size:14pt;text-align:justify;">
+        Implementamos procesos que ayuden a la disponibilidad del dinero. Basándonos en la información financiera, el control de las cuentas
+        por cobrar, el control de las cuentas por pagar y buscamos formas de financiamiento.
         </p>
 
          <ul class="collapsible">
@@ -253,7 +250,7 @@
 
         <div class="col s12 m7 l7">
         <h5 class="" style="font-family: 'Poly', serif; font-size:20pt; text-decoration: underline;">Servicio de facturación</h5>
-        <p style="font-size:14pt;">
+        <p style="font-size:14pt;text-align:justify;">
         Este modelo de soporte está convirtiendo a las empresas en organizaciones más eficientes, competitivas
         y rentables; dirigiendo todos sus recursos al desarrollo de su objeto social para facilitar su crecimiento
         y mejorar los procesos u operaciones de su negocio que involucran tiempo productivo innecesario de la dirección
@@ -266,7 +263,7 @@
 
 
     
-
+<br><br><br><br><br>
 
 </section>
 

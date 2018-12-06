@@ -40,19 +40,19 @@
 
 <section class="container-wide" style="color:#1d5289; height:500px;">
 <br><br><br>
-    
-    <div class="row" style="width: 80%;">
-
-        <h1 style="font-family: 'Poly', serif; ">Prevenir es no mirar atrás</h1>
-        <p>Somos un outsourcing que brinda asesoría en la gestión contable, tributaria, financiera y gestión empresarial.
+<img class="img-responsive" style="position:absolute;right:0px; padding-right:200px; opacity: 1; width:45%;" src="Recursos/img/conocenos.png">   
+    <div class="row" style="width: 80%; ">
+        <h1 style="font-family: 'Poly', serif; ">Prevenir para construir tu futuro.</h1>
+            
+            <p>Somos un outsourcing que brinda asesoría en la gestión contable, tributaria, financiera y gestión empresarial.
         Tenemos como objetivo principal dar orden y conocimiento a nuestros clientes para que así puedan progresar y tener
         un crecimiento constante. 
-        
-        
         
         </p>
 
 
+
+        
     </div>
 </section>
 
