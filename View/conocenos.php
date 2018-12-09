@@ -58,24 +58,28 @@
 
 <section class="container-wide" style="color:#1d5289;">
 
-    <div class="row" style="width: 80%;">
+    <div class="row" style="width: 60%;">
 
-        <h3 class="center-align" style="font-family: 'Poly', serif;">Equipo</h3>
+        <h3 class="center-align" style="font-family: 'Poly', serif;">Nuestro Equipo</h3>
         <br><br><br>
-        <div class="col s12 m3">
+
+
+        <div class="col s12 m4">
             <div>
-                <img src="Recursos/img/yesenia.jpg" alt="" class="circle responsive-img">
+                <img src="Recursos/img/Rog.jpg" alt="" class="circle responsive-img">
              </div>
              <div class="center-align">
-                <p  style="font-size:14pt; font-weight:600; font-family: 'Poly', serif; margin:5px;">Yesenia Siancas</p>
-                    Gerente General
+                <p  style="font-size:14pt; font-weight:600; font-family: 'Poly', serif; margin:5px;">Rogger Siancas</p>
+                    Asesor Contable
                 <br><br>
              </div>
         </div>
 
-        <div class="col s12 m3" >
+      
+
+        <div class="col s12 m4" >
              <div>
-                <img src="Recursos/img/yesenia.jpg" alt="" class="circle responsive-img">
+                <img src="Recursos/img/Yes.jpg" alt="" class="circle responsive-img">
              </div>
              <div class="center-align">
                 <p  style="font-size:14pt; font-weight:600; font-family: 'Poly', serif; margin:5px;">Yesenia Siancas</p>
@@ -84,30 +88,21 @@
              </div>
         </div>
 
-        <div class="col s12 m3">
+     
+
+        <div class="col s12 m4">
              
             <div>
-                <img src="Recursos/img/yesenia.jpg" alt="" class="circle responsive-img">
+                <img src="Recursos/img/Nat.jpg" alt="" class="circle responsive-img">
              </div>
              <div class="center-align">
-                <p  style="font-size:14pt; font-weight:600; font-family: 'Poly', serif; margin:5px;">Yesenia Siancas</p>
-                    Gerente General
+                <p  style="font-size:14pt; font-weight:600; font-family: 'Poly', serif; margin:5px;">Nataly Siancas</p>
+                    Asesora Contable
                     <br><br>
              </div>
         </div>
 
-        <div class="col s12 m3">
-             
-            <div>
-                <img src="Recursos/img/yesenia.jpg" alt="" class="circle responsive-img">
-             </div>
-             <div class="center-align">
-                <p  style="font-size:14pt; font-weight:600; font-family: 'Poly', serif; margin:5px;">Yesenia Siancas</p>
-                    Gerente General
-                <br><br>
-             </div>
-        </div>
-
+        
     </div>
 </section>
 
