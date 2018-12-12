@@ -55,7 +55,7 @@
               });
 
               $('.slider').slider({
-                height: 540
+                height: 570
               });
 
          /* Script de carrusel video historias página principal */                  
@@ -121,7 +121,7 @@
             <div class="slider">
                 <ul class="slides">
                 <li>
-                    <img id="img1"   src="Recursos/img/Grupo2_V4.jpg"> 
+                    <img id="img1" style="margin-top:10px;"  src="Recursos/img/Grupo2_V4.jpg"> 
                     <!-- random image -->
                     <!-- <div class="caption center-align"> -->
                     <div id="txtporta" class="caption center-align">
@@ -139,7 +139,7 @@
 
 <section id="Comienza" class="container-wide center-align" style="background-color:#ffffff; color:#1d5289; height:470px;padding-top:100px;">
 
-    <h5 class="center-align" style="font-family: 'Poly', serif;"><b><u>La gestión contable</u></b> es, también, anticiparnos a un problema y no esperar a que éste llegue</h5>
+    <h5 class="center-align" style="font-family: 'Poly', serif;"><b>La gestión contable</b> es, también, anticiparnos a un problema y no esperar a que éste llegue</h5>
     <h3 class="center-align" style="font-family: 'Poly', serif;">Tenemos las herramientas y conocimientos<br>de acuerdo a tus necesidades</h3>
     <a href="#Servicios" style="position: relative;bottom: 5px;z-index: 99;">
         <!-- <img class="floating" src="Recursos/img/flechas.png" style="width: 90px;"> -->
@@ -252,10 +252,10 @@
 
 
 
-<div class="parallax-container center-align" style="height: 500px;padding-top: 60px;border-bottom: 1px solid white;">
+<div class="parallax-container center-align" style="height:550px;padding-top: 60px;border-bottom: 1px solid white;">
       <div class="parallax"><img src="Recursos/img/PortadaGesV3_.jpg"></div>
       <h4 style="padding-top: 75px;color:white;font-family: 'Poly', serif; font-size:42pt;text-shadow: 3px 2px 2px #4a4a4a">Nuestra misión</h4>
-      <p class=""style="font-size: 15pt;color: white;">Sabemos que nuestro principal propósito es dar a nuestros clientes orden y conocimiento en su gestión contable, para así pevenir futuros problemas y garantizar un sólido crecimiento.</p>
+      <p class=""style="font-size: 13pt;color: white;">Sabemos que nuestro principal propósito es dar a nuestros clientes orden y conocimiento en su gestión contable,<br> para así prevenir futuros inconvenientes y garantizar un sólido crecimiento.</p>
       <a id="" href="conocenos" class="waves-effect btn-large" style="background-color: #1d5289;margin: 50px;border-radius: 10px;">Conócenos más</a>
 </div>
 

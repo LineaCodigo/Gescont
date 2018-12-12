@@ -38,21 +38,27 @@
 ?>
 
 
-<section class="container-wide" style="color:#1d5289; height:500px;">
-<br><br><br>
-<img class="img-responsive" style="position:absolute;right:0px; padding-right:200px; opacity: 1; width:45%;" src="Recursos/img/conocenos.png">   
-    <div class="row" style="width: 80%; ">
-        <h1 style="font-family: 'Poly', serif; ">Prevenir para construir tu futuro.</h1>
+<section class="container-wide" style="color:#1d5289; background-image:url(Recursos/img/conocenos.png); background-repeat:no-repeat; background-size: 200px 400px; background-position:990px 70px;">
+
+
+    <div class="row" style="width: 80%; padding-top:50px;">
+    
+        <h2 style="font-family: 'Poly', serif; ">Prevenir para construir tu futuro.</h2>
+        <br>
             
-            <p>Somos un outsourcing que brinda asesoría en la gestión contable, tributaria, financiera y gestión empresarial.
-        Tenemos como objetivo principal dar orden y conocimiento a nuestros clientes para que así puedan progresar y tener
-        un crecimiento constante. 
-        
-        </p>
+            <p style="text-align:justify;">Somos un outsourcing que brinda asesoría en la gestión contable, tributaria, financiera y gestión empresarial.
+            Tenemos como objetivo principal dar orden y conocimiento a nuestros clientes para que así puedan progresar con
+            un crecimiento constante. 
+            </p>
 
+            <p style="text-align:justify;">
+            Creemos que una gestión contable organizada nos ayuda a <b>prevenir</b> percances a la hora de una auditoría anual o 
+            algún trámite con las entidades financieras y tributarias.
+            </p>
 
-
-        
+            <p style="text-align:justify;">
+            Es por eso que contamos con los mejores servicios y herramientas para poder construir un futuro sólido y rentable para tu negocio.
+            </p>
     </div>
 </section>
 
@@ -60,7 +66,7 @@
 
     <div class="row" style="width: 60%;">
 
-        <h3 class="center-align" style="font-family: 'Poly', serif;">Nuestro Equipo</h3>
+        <h3 class="center-align" style="font-family: 'Poly', serif;">Equipo</h3>
         <br><br><br>
 
 

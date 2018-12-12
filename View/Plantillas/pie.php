@@ -53,7 +53,7 @@
 
                 <div class="row" style="margin: 250px auto 0;max-width: 400px;">
                     <div class="col s12 m12">
-                        <img src="Recursos/img/LOGO_GESCONT_BLANCO(WEB)_V2.png" alt="" class="responsive-img" width="500"/>   
+                        <img src="Recursos/img/LOGO_GESCONT_BLANCO(WEB)_V3.png" alt="" class="responsive-img" width="500"/>   
                     </div>                                
                 </div> 
 
