@@ -273,6 +273,17 @@
         width: 100%; 
     }
 
+    #conocemani{
+        background-position: 100px 240px !important;
+        background-image: url(Recursos/img/conocenos.png); 
+        background-size: 190px 380px !important;
+    }
+
 
 }
 
+#conocemani{
+    background-position: 990px 65px;
+    background-image: url(Recursos/img/conocenos.png); 
+    background-size: 150px 300px;
+}

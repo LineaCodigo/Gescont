@@ -38,12 +38,14 @@
 ?>
 
 
-<section class="container-wide" style="color:#1d5289; background-image:url(Recursos/img/conocenos.png); background-repeat:no-repeat; background-size: 200px 400px; background-position:990px 70px;">
+<section id="conocemani" class="container-wide" style="padding-top:50px;height-max: 500px;color:#1d5289; background-image:url(Recursos/img/conocenos.png); background-repeat:no-repeat;">
 
 
-    <div class="row" style="width: 80%; padding-top:50px;">
-    
-        <h2 style="font-family: 'Poly', serif; ">Prevenir para construir tu futuro.</h2>
+    <div class="row" style="width: 80%;">
+
+        <div class="col s12 l12">
+        
+        <h2 style="font-family: 'Poly', serif; ">Prevenir para construir tu futuro</h2>
         <br>
             
             <p style="text-align:justify;">Somos un outsourcing que brinda asesoría en la gestión contable, tributaria, financiera y gestión empresarial.
@@ -59,6 +61,10 @@
             <p style="text-align:justify;">
             Es por eso que contamos con los mejores servicios y herramientas para poder construir un futuro sólido y rentable para tu negocio.
             </p>
+        
+        </div>
+    
+       
     </div>
 </section>
 
