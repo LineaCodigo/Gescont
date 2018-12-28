@@ -144,7 +144,7 @@
     <a href="#Servicios" style="position: relative;bottom: 5px;z-index: 99;">
         <!-- <img class="floating" src="Recursos/img/flechas.png" style="width: 90px;"> -->
         <!-- <a id="btn_datos" href="#Comienza" class="waves-effect btn-large floating" style="background-color: #1d5289;margin: 50px;border-radius: 100px;"><i class="large material-icons">message</i></a>         -->
-        <i class="large material-icons floating" style="color: #1d5289 !important; font-size: 55pt; margin-top: 30px;">archive</i>
+        <i class="large material-icons floating" style="color: #1d5289 !important; font-size: 55pt; margin-top: 30px;">keyboard_arrow_down</i>
     </a>
 
 </section>
